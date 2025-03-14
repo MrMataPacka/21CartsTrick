@@ -1,0 +1,12 @@
+﻿  apuntes.cpp
+  Source.cpp
+C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\4taLeccionCPP\4taLeccionCPP\Truco21.h(2,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Source.cpp")
+  
+  Truco21.cpp
+C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\4taLeccionCPP\4taLeccionCPP\Truco21.h(2,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Truco21.cpp")
+  
+C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\4taLeccionCPP\4taLeccionCPP\Truco21.cpp(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  4taLeccionCPP.vcxproj -> C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\4taLeccionCPP\x64\Debug\4taLeccionCPP.exe
